@@ -1,17 +1,4 @@
 # Larry_Load_2025
 A current load for testing, named for the great Larry Carr, his original design.
 
-Features
- Easy to use current load
- Programmable from 10μA to 10A
- Battery operated with over 2 years battery life
- Low battery detection indicator
- High output impedance
- Operates on voltages from <1V to 30V
-
-Applications
- DC-DC converter testing
- Battery discharge
- LED biasing
- Diode/LED characterizationFeatures
-
+This document describes the assembly, design, calibration and usage of “Larry Load”, a battery-powered, high accuracy current sink. The system consists of a small PCB inside and enclosure, with various panel mount components and connector mounted components to make a complete circuit.
